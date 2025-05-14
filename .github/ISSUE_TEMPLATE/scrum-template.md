@@ -2,18 +2,18 @@
 name: Scrum template
 about: gritty Daily Scrum
 title: ''
-date: ''
+labels: ''
 assignees: ''
 
 ---
 
 # 🙋‍♀️ 오늘의 스크럼 - YYYY.MM.DD
 
-## 한 일 (What did you do yesterday?)
+## 한 일 (What did you do)
 - 1. 작업 1
 - 2. 작업 2
 
-## 할 일 (What will you do today?)
+## 할 일 (What will you do)
 - 1. 작업 1
 - 2. 작업 2
 
