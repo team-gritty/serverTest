@@ -25,4 +25,4 @@ assignees: ''
 
 ### Done 전에 확인
 - [ ] Assignees
-- [x] Date
+- [ ] Date
